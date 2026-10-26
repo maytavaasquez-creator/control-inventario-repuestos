@@ -1,0 +1,9 @@
+# Archivos temporales de Excel
+~$*.xlsx
+~$*.xls
+*.tmp
+.~lock.*
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
